@@ -24,3 +24,15 @@ Raw Data → Preprocessing → H3 Indexing → Feature Engineering → ML Model 
 pip install -r requirements.txt
 python main.py
 streamlit run app/streamlit_app.py
+
+## Dashboard Preview
+
+![Dashboard](assets/dashboard_overview.png)
+
+## H3 Hexagon Map
+
+![H3 Map](assets/h3_hex_map.png)
+
+## Surge Pricing
+
+![Surge](assets/surge_tooltip.png)
